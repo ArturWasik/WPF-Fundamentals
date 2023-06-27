@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DiU0Ui2Xf0vU8FwWFZ+czM1lEMdAHlTLR2VFnQxoj4Wui7/w2nCrBlXHscgA8ZVmzBtqujp5yzkzitYelGcT1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Artur\\Downloads\\wpf-6-fundamentals\\10\\demos\\after\\WiredBrainCoffee.CustomersApp\\WiredBrainCoffee.CustomersApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Artur\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Artur\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Artur\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
